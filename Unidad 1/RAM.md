@@ -1,0 +1,1 @@
+Almacena datos y programas. Esta memoria es habitualmente volátil; es decir, cuando se apaga la computadora, se pierde su contenido.

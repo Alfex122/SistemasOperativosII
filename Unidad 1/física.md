@@ -1,0 +1,1 @@
+En contraste en contenido de la memoria del disco se mantiene incluso si se apaga la computadora.

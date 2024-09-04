@@ -1,0 +1,2 @@
+Administración de procesos del sistema operativo
+Una de las funciones del procesador es el intercambio de datos con la memoria. para este fin, se utilizan normalmente dos registros internos (al procesador): un registro de dirección de memoria (RDIM), que especifica la dirección de memoria de la siguiente lectura o escritura; y un registro de datos de memoria (RDAM), que contiene los datos que se van a escribir en la memoria o que recibe los daros leídos de la memoria.

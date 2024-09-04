@@ -1,0 +1,1 @@
+Transfiere datos entre el computador y su entorno externo. El entorno externo esta formado por diversos dispositivos, incluyendo dispositivos de memoria secundaria.
